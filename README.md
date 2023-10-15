@@ -75,7 +75,7 @@ This project aims to explore the impact of global warming on Singapore's climate
 
 7. "**Sea level trend and variability in the Singapore Strait**", Tkalich, P., Vethamony, P., Luu, Q.-H., and Babu, M. T. , Ocean Sci., 9, 293–300, https://doi.org/10.5194/os-9-293-2013, 2013
 
-
+![](Mean_Sea_Level_Prediction_with_SARIMA.png)
 
 ## To create the environment from the .yml file, use the command:
 
