@@ -59,6 +59,10 @@ This project aims to explore the impact of global warming on Singapore's climate
     - greenhouse gas emission and concentration futures
     - ice-sheet processes, such as MICI (Marine Ice Cliff Instability)
 
+![](Mean_Sea_Level_Prediction_with_SARIMA.png)
+
+
+
 ## Reference:
 
 1. "**Mapping Sea-Level Change in Time, Space, and Probability**", Dr Benjamin P. Horton et al. Annu. Rev. Environ. Resour. 2018. 43:481–521, 2018 https://www.annualreviews.org/doi/pdf/10.1146/annurev-environ-102017-025826
@@ -75,7 +79,7 @@ This project aims to explore the impact of global warming on Singapore's climate
 
 7. "**Sea level trend and variability in the Singapore Strait**", Tkalich, P., Vethamony, P., Luu, Q.-H., and Babu, M. T. , Ocean Sci., 9, 293–300, https://doi.org/10.5194/os-9-293-2013, 2013
 
-![](Mean_Sea_Level_Prediction_with_SARIMA.png)
+
 
 ## To create the environment from the .yml file, use the command:
 
